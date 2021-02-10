@@ -4,6 +4,7 @@ The purpose of the project is to study posturolgy in order to design a platform 
 a quantitative diagnosis of human balance. This diagnosis will initially be used to prevent the risk of falls in the elderly.
 <br/>
 Once the plateform built, an application was designed using <strong>Labview</strong> to make data acquisition.
+<br/> There is two "py" files, one is with an interface and the other without.
 <br/>
 Here is the program for <strong>data processing</strong>
 <br/><br/>
@@ -21,15 +22,15 @@ To process data, I used different libraries suchs as: <br/>
 
 <br/><br/>
 <div align="center">
-  <img src="gravity_center1.png" alt="Displacement of the gravity center" height="400px" width="500px"/>
+  <img src="gravity_center_1.png" alt="Displacement of the gravity center" height="400px" width="500px"/>
 </div>
 
 <br/><br/>
 <div align="center">
-  <img src="gravity_center2.png" alt="Displacement of the gravity center" height="400px" width="500px"/>
+  <img src="gravity_center_2.png" alt="Displacement of the gravity center" height="400px" width="500px"/>
 </div>
 
 <br/><br/>
 <div align="center">
-  <img src="gravity_center3.png" alt="Displacement of the gravity center" height="400px" width="500px"/>
+  <img src="gravity_center_3.png" alt="Displacement of the gravity center" height="400px" width="500px"/>
 </div>
