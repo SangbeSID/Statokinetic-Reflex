@@ -4,9 +4,9 @@ The purpose of the project is to study posturolgy in order to design a platform 
 a quantitative diagnosis of human balance. This diagnosis will initially be used to prevent the risk of falls in the elderly.
 <br/>
 Once the plateform built, an application was designed using <strong>Labview</strong> to make data acquisition.
-<br/> There is two "py" files, one is with an interface and the other without.
 <br/>
 Here is the program for <strong>data processing</strong>
+<br/> There is two "py" files, one is with an interface and the other without.
 <br/><br/>
 <h2>More</h2>
 To process data, I used different libraries suchs as: <br/>
